@@ -1,14 +1,4 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Data Science Portfolio
 
@@ -23,11 +13,10 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
 <center><img src="images/fraud_detection.jpg"/></center>
-#### Header 4
+#### Time series analysis of stock prices
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Predicting bottom out
+*   Predicting next support and resistance levels
 
 ##### Header 5
 
